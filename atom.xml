@@ -4,7 +4,7 @@
   <title><![CDATA[[Blog Title Here]]]></title>
   <link href="http://waterphox.github.com/atom.xml" rel="self"/>
   <link href="http://waterphox.github.com/"/>
-  <updated>2013-03-06T21:09:34+04:00</updated>
+  <updated>2013-03-06T21:11:00+04:00</updated>
   <id>http://waterphox.github.com/</id>
   <author>
     <name><![CDATA[Waterfox]]></name>
@@ -54,6 +54,11 @@ Maybe one day all things will be better, but until then, I&#8217;ll just have to
 </span></code></pre></td></tr></table></div></figure>
 
 
+
+
+<br />
+
+
 <p><span class='pullquote-right' data-pullquote='<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
 </pre></td><td class='code'><pre><code class=''><span class='line'>do.Math;</span></code></pre></td></tr></table></div></figure>&#8217;>
 I am going to test putting a code block in my pull quote. This is reeally advanced and should only be done by professionals.</p>
@@ -62,7 +67,7 @@ I am going to test putting a code block in my pull quote. This is reeally advanc
 </pre></td><td class='code'><pre><code class=''><span class='line'>do.Math;</span></code></pre></td></tr></table></div></figure>
 
 
-<p>There. Code. Pull&#8217;d. Sweet. <em>wipes sweat off brow</em>
+<p>That does not work. Don&#8217;t do this, for the love of glob.
 </span></p>
 
 <br /><br />
