@@ -4,7 +4,7 @@
   <title><![CDATA[[Blog Title Here]]]></title>
   <link href="http://waterphox.github.com/atom.xml" rel="self"/>
   <link href="http://waterphox.github.com/"/>
-  <updated>2013-03-06T21:04:08+04:00</updated>
+  <updated>2013-03-06T21:04:41+04:00</updated>
   <id>http://waterphox.github.com/</id>
   <author>
     <name><![CDATA[Waterfox]]></name>
@@ -25,8 +25,7 @@ You can probably disregard the contents.</p>
 
 
 <p>Okay, here we go.<br/><br/>
-<img src="http://placekitten.com/300/500" width="150" height="250" title="Kitten" alt="An image of a kitten"><br/>
-<img src="http://placehold.it/400x200" title="Generic Placeholder Image" alt="A generic placeholder image"><br/></p>
+<img src="http://placekitten.com/300/500" width="150" height="250" title="Kitten" alt="An image of a kitten"> <img src="http://placehold.it/400x200" title="Generic Placeholder Image" alt="A generic placeholder image"><br/></p>
 
 <blockquote><p>Bacon ipsum dolor sit amet tail officia leberkas, salami dolore capicola consectetur culpa aliqua est enim. Flank officia jerky, enim minim aute aliqua in tempor corned beef.</p></blockquote>
 
