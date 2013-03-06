@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
+    <url>
+        <loc>http://waterphox.github.com/blog/2013/03/06/hello/</loc>
+        <lastmod>2013-03-06T19:46:59+04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://waterphox.github.com/blog/2013/03/06/what-are-you-doing/</loc>
+        <lastmod>2013-03-06T19:49:13+04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://waterphox.github.com/blog/archives/</loc>
+        <lastmod>2013-03-06T19:49:13+04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://waterphox.github.com/</loc>
+        <lastmod>2013-03-06T19:49:13+04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://waterphox.github.com/robots.txt</loc>
+        <lastmod>2013-03-06T04:42:09+04:00</lastmod>
+    </url>
+</urlset>
