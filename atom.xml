@@ -4,7 +4,7 @@
   <title><![CDATA[[Blog Title Here]]]></title>
   <link href="http://waterphox.github.com/atom.xml" rel="self"/>
   <link href="http://waterphox.github.com/"/>
-  <updated>2013-03-06T21:11:00+04:00</updated>
+  <updated>2013-03-06T21:12:26+04:00</updated>
   <id>http://waterphox.github.com/</id>
   <author>
     <name><![CDATA[Waterfox]]></name>
@@ -69,6 +69,8 @@ I am going to test putting a code block in my pull quote. This is reeally advanc
 
 <p>That does not work. Don&#8217;t do this, for the love of glob.
 </span></p>
+
+<p>Putting things in stars makes it italic. Sweet! <em>dances</em></p>
 
 <br /><br />
 
