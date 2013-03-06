@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<style type="text/css">
+			body
+			{
+				background-color: #000000;
+			}
+			.teehee
+			{
+				color: #FFFFFF;
+				font-size: 200px;
+				font-family: Calibri;
+				width: 300px;
+				position: absolute;
+				-moz-transform: rotate( 45deg );
+				-webkit-transform: rotate( 45deg );
+				-o-transform: rotate( 45deg );
+				-ms-transform: rotate( 45deg );
+				transform: rotate( 45deg );
+			}
+		</style>
+		<script type="text/javascript">
+			window.addEventListener( "load", init );
+			function init( e )
+			{
+				setInterval( wiggle, 25 );
+			}
+			function wiggle( e )
+			{
+				var wiggleAmount = Math.floor( Math.random() * 5 );
+				var codeBox = document.getElementById( "teehee" );
+				var rotation = 43 + wiggleAmount;
+				codeBox.setAttribute( "style","-moz-transform: rotate(" + rotation + "deg);");
+			}
+		</script>
+	</head>
+	<body>
+		<br />
+		<div class="teehee" id="teehee">404</div>
+		<br />
+	</body>
+</html>
+
