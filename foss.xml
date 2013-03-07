@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[[Blog Title Here]]]></title>
+  <link href="http://waterphox.github.com/foss.xml" rel="self"/>
+  <link href="http://waterphox.github.com/"/>
+  <updated>2013-03-08T02:34:26+04:00</updated>
+  <id>http://waterphox.github.com/</id>
+  <author>
+    <name><![CDATA[Waterfox]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>

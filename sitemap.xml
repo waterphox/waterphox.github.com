@@ -24,4 +24,8 @@
         <loc>http://waterphox.github.com/robots.txt</loc>
         <lastmod>2013-03-06T04:42:09+04:00</lastmod>
     </url>
+    <url>
+        <loc>http://waterphox.github.com/foss.xml</loc>
+        <lastmod>2013-03-08T02:34:22+04:00</lastmod>
+    </url>
 </urlset>
