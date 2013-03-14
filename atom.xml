@@ -4,7 +4,7 @@
   <title><![CDATA[[Blog Title Here]]]></title>
   <link href="http://waterphox.github.com/atom.xml" rel="self"/>
   <link href="http://waterphox.github.com/"/>
-  <updated>2013-03-08T02:42:38+04:00</updated>
+  <updated>2013-03-15T01:34:35+04:00</updated>
   <id>http://waterphox.github.com/</id>
   <author>
     <name><![CDATA[Waterfox]]></name>
@@ -12,6 +12,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Interesting Sugar Labs Activities]]></title>
+    <link href="http://waterphox.github.com/blog/2013/03/15/interesting-sugar-labs-activities/"/>
+    <updated>2013-03-15T01:29:00+04:00</updated>
+    <id>http://waterphox.github.com/blog/2013/03/15/interesting-sugar-labs-activities</id>
+    <content type="html"><![CDATA[<p>I perused the activities pages of the Sugar Labs site and picked a few activities I thought were interesting.
+Physics, Jam GBA Emulator, and Kiwix.</p>
+
+<!-- more -->
+
+
+<p>Physics is interesting because it is somewhat like another game I enjoy immensely, Phun. There are less options than Phun, but the core &#8220;make objects that bounce around with physical properties&#8221; thing is still there.</p>
+
+<p>As the XOs have little Gameboy-like buttons on them, I figured a GBA emulator would be perfect. I can&#8217;t wait to fold the screen down and try playing Rythm Tengoku!</p>
+
+<p>Lastly, Kiwix is an offline Wikipedia reader. I like the idea of that because the environments XOs are intended for may not always have an internet connection. After downloading pre-packaged pages to Kiwix, there will be lots of available reading on the XO. You know how it is with Wikipedia, a few clicks and you&#8217;re reading for hours.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Time for some tests]]></title>
