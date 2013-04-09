@@ -4,7 +4,7 @@
   <title><![CDATA[[Blog Title Here]]]></title>
   <link href="http://waterphox.github.com/foss.xml" rel="self"/>
   <link href="http://waterphox.github.com/"/>
-  <updated>2013-04-10T02:18:54+04:00</updated>
+  <updated>2013-04-10T02:19:34+04:00</updated>
   <id>http://waterphox.github.com/</id>
   <author>
     <name><![CDATA[Waterfox]]></name>
@@ -28,8 +28,9 @@ It seemed like learning python would not be such a daunting task, but now http:/
 
 
 <p>Links:
-Sweetermail: <a href='https://github.com/FOSSRIT/sweetermail'>https://github.com/FOSSRIT/sweetermail</a>
-Python Interactive Tutorial: <a href='http://trypython.org'>http://trypython.org</a></p>
+Sweetermail: <a href='https://github.com/FOSSRIT/sweetermail'>https://github.com/FOSSRIT/sweetermail</a></p>
+
+<p>Python Interactive Tutorial: <a href='http://trypython.org'>http://trypython.org</a></p>
 ]]></content>
   </entry>
   
