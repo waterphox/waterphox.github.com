@@ -4,7 +4,7 @@
   <title><![CDATA[[Blog Title Here]]]></title>
   <link href="http://waterphox.github.com/foss.xml" rel="self"/>
   <link href="http://waterphox.github.com/"/>
-  <updated>2013-03-15T01:48:09+04:00</updated>
+  <updated>2013-04-10T02:17:25+04:00</updated>
   <id>http://waterphox.github.com/</id>
   <author>
     <name><![CDATA[Waterfox]]></name>
@@ -12,6 +12,26 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Learning Python so I can be Sweet]]></title>
+    <link href="http://waterphox.github.com/blog/2013/04/10/learning-python-so-i-can-be-sweet/"/>
+    <updated>2013-04-10T02:03:00+04:00</updated>
+    <id>http://waterphox.github.com/blog/2013/04/10/learning-python-so-i-can-be-sweet</id>
+    <content type="html"><![CDATA[<p>Hrmm, I should have posted a bunch more before this.
+Since posting about Sugar Activities I have been trying to acquaint myself with python.
+We&#8217;ve also made some headway on Sweetermail, which is what we&#8217;ve named our XOmail furthering project,
+I haven&#8217;t been able to help much, due to lack of python experience; but with the python practise I can at least understand the source code now.
+It seemed like learning python would not be such a daunting task, but now http://trypython.org is giving 503 errors. :/</p>
+
+<!-- more -->
+
+
+<p>Links:
+Sweetermail: https://github.com/FOSSRIT/sweetermail
+Python Interactive Tutorial: http://trypython.org</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Interesting Sugar Labs Activities]]></title>
